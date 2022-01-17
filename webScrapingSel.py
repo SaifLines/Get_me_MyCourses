@@ -214,7 +214,7 @@ email.send_keys(Keys.RETURN)
 
 time.sleep(5)
 password = driver.find_element_by_id("passwordInput")
-password.send_keys("Realmadrid123?")
+password.send_keys("XXXXXXXXXXXXXXXXXXXX")
 password.send_keys(Keys.RETURN)
 
 #waiting to approve on the app
